@@ -1,3 +1,4 @@
+
 ---
 
 # Ops Co-Pilot — Telegram MVP (Slack + Notion Digest, Mock Mode)
@@ -142,5 +143,4 @@ The mock backend simulates what the real bot will do in production:
 * Useful for **walkthroughs with stakeholders** to validate UX.
 
 ---
-
 
